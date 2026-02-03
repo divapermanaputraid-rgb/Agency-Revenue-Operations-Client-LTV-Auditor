@@ -1,4 +1,8 @@
 # Agency Revenue Operations & Client LTV Auditor (v1.0)
+![Version](https://img.shields.io/badge/version-1.0.0--beta-blue)
+![Python](https://img.shields.io/badge/Python-3.9+-yellow?logo=python)
+![Status](https://img.shields.io/badge/Status-In--Progress-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ##  Overview
 Proyek ini berfokus pada audit kesehatan finansial dan operasional dalam ekosistem agensi iklan (AdTech/Creative Agency). Proyek ini menjembatani peran **Account Executive (AE)** dalam mengelola hubungan klien dan **Data Analyst (DA)** dalam memvalidasi profitabilitas bisnis melalui metrik *Unit Economics*.
