@@ -25,3 +25,23 @@ agency-revenue-auditor/
 ├── .gitignore              # Mengabaikan venv, .DS_Store, dan cache
 ├── requirements.txt        # Daftar library (pandas, matplotlib, dll)
 └── README.md               # Dokumentasi Business Case & Temuan Utama
+
+## Metrik Utama (Business Logic)
+Proyek ini menggunakan beberapa perhitungan standar industri untuk mengukur kesehatan akun:
+
+**1. Net Profit Margin per Client:**
+Menghitung keuntungan bersih setelah dikurangi biaya langsung (ads spend/vendor) dan biaya tenaga kerja operasional (man-hours).
+$$Margin = \frac{Revenue - (Direct Costs + Operational Labor)}{Revenue}$$
+
+**2. Customer Lifetime Value (LTV):**
+Estimasi total nilai ekonomi klien selama durasi kerja sama.
+$$LTV = \text{Avg. Monthly Revenue} \times \text{Gross Margin} \times \text{Customer Lifespan}$$
+
+---
+
+## Project Status: v1.0 - The Foundation (Ongoing)
+- [x] Repository Setup & Folder Structuring
+- [ ] Business Questions (BQ) Definition
+- [ ] Mock Data Generation
+- [ ] Exploratory Data Analysis (EDA)
+- [ ] Final Dashboard & Insights
