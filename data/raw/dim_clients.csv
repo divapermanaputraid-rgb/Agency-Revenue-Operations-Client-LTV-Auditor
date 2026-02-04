@@ -1,0 +1,151 @@
+client_id,client_name,industry,client_tier,account_manager_id,contract_start_date
+SMS-1000,Client_Technology_0,Technology,Tier 3,AM-01,2024-02-01
+SMS-1001,Client_Technology_1,Healthcare,Tier 3,AM-01,2024-06-01
+SMS-1002,Client_Technology_2,Retail,Tier 3,AM-05,2024-02-01
+SMS-1003,Client_Technology_3,F&B,Tier 3,AM-05,2024-06-01
+SMS-1004,Client_F&B_4,Consumer Goods,Tier 3,AM-05,2024-02-01
+SMS-1005,Client_Healthcare_5,Retail,Tier 2,AM-05,2024-02-01
+SMS-1006,Client_Retail_6,Technology,Tier 3,AM-02,2024-05-01
+SMS-1007,Client_Consumer Goods_7,F&B,Tier 1,AM-10,2024-06-01
+SMS-1008,Client_Healthcare_8,Consumer Goods,Tier 1,AM-09,2024-05-01
+SMS-1009,Client_F&B_9,F&B,Tier 2,AM-01,2024-05-01
+SMS-1010,Client_Retail_10,Consumer Goods,Tier 2,AM-09,2024-05-01
+SMS-1011,Client_Retail_11,Consumer Goods,Tier 3,AM-09,2024-06-01
+SMS-1012,Client_F&B_12,Consumer Goods,Tier 2,AM-10,2024-02-01
+SMS-1013,Client_F&B_13,Technology,Tier 3,AM-07,2024-03-01
+SMS-1014,Client_F&B_14,Consumer Goods,Tier 3,AM-07,2024-03-01
+SMS-1015,Client_Technology_15,Healthcare,Tier 2,AM-03,2024-03-01
+SMS-1016,Client_F&B_16,Retail,Tier 3,AM-05,2024-01-01
+SMS-1017,Client_Consumer Goods_17,Consumer Goods,Tier 2,AM-04,2024-01-01
+SMS-1018,Client_Consumer Goods_18,Technology,Tier 2,AM-09,2024-02-01
+SMS-1019,Client_Healthcare_19,F&B,Tier 2,AM-04,2024-02-01
+SMS-1020,Client_Consumer Goods_20,Retail,Tier 3,AM-03,2024-02-01
+SMS-1021,Client_Retail_21,Healthcare,Tier 3,AM-03,2024-06-01
+SMS-1022,Client_Retail_22,Healthcare,Tier 3,AM-05,2024-02-01
+SMS-1023,Client_Healthcare_23,F&B,Tier 3,AM-04,2024-01-01
+SMS-1024,Client_Healthcare_24,Technology,Tier 3,AM-08,2024-05-01
+SMS-1025,Client_Retail_25,Consumer Goods,Tier 2,AM-09,2024-03-01
+SMS-1026,Client_Technology_26,Consumer Goods,Tier 2,AM-02,2024-02-01
+SMS-1027,Client_Retail_27,Technology,Tier 2,AM-06,2024-02-01
+SMS-1028,Client_Technology_28,Retail,Tier 2,AM-04,2024-05-01
+SMS-1029,Client_Healthcare_29,Retail,Tier 2,AM-03,2024-01-01
+SMS-1030,Client_Consumer Goods_30,Technology,Tier 2,AM-03,2024-02-01
+SMS-1031,Client_Consumer Goods_31,F&B,Tier 2,AM-04,2024-03-01
+SMS-1032,Client_Consumer Goods_32,Technology,Tier 2,AM-03,2024-04-01
+SMS-1033,Client_F&B_33,Healthcare,Tier 2,AM-10,2024-05-01
+SMS-1034,Client_F&B_34,Healthcare,Tier 2,AM-05,2024-06-01
+SMS-1035,Client_Consumer Goods_35,Consumer Goods,Tier 2,AM-02,2024-02-01
+SMS-1036,Client_Retail_36,Healthcare,Tier 3,AM-10,2024-03-01
+SMS-1037,Client_Technology_37,F&B,Tier 1,AM-01,2024-03-01
+SMS-1038,Client_Retail_38,Consumer Goods,Tier 2,AM-01,2024-04-01
+SMS-1039,Client_Consumer Goods_39,Healthcare,Tier 2,AM-09,2024-03-01
+SMS-1040,Client_F&B_40,Technology,Tier 3,AM-08,2024-02-01
+SMS-1041,Client_Technology_41,Healthcare,Tier 2,AM-06,2024-05-01
+SMS-1042,Client_Consumer Goods_42,Technology,Tier 2,AM-07,2024-01-01
+SMS-1043,Client_Consumer Goods_43,Technology,Tier 3,AM-10,2024-03-01
+SMS-1044,Client_Retail_44,Retail,Tier 2,AM-07,2024-04-01
+SMS-1045,Client_Retail_45,Technology,Tier 2,AM-03,2024-02-01
+SMS-1046,Client_Technology_46,Technology,Tier 2,AM-02,2024-04-01
+SMS-1047,Client_Consumer Goods_47,Consumer Goods,Tier 2,AM-04,2024-02-01
+SMS-1048,Client_Healthcare_48,Healthcare,Tier 2,AM-07,2024-06-01
+SMS-1049,Client_Technology_49,Retail,Tier 2,AM-07,2024-01-01
+SMS-1050,Client_Healthcare_50,Technology,Tier 2,AM-03,2024-04-01
+SMS-1051,Client_F&B_51,Retail,Tier 1,AM-06,2024-01-01
+SMS-1052,Client_Healthcare_52,Healthcare,Tier 2,AM-01,2024-05-01
+SMS-1053,Client_F&B_53,Retail,Tier 2,AM-03,2024-01-01
+SMS-1054,Client_Retail_54,F&B,Tier 3,AM-02,2024-05-01
+SMS-1055,Client_Technology_55,Technology,Tier 2,AM-01,2024-04-01
+SMS-1056,Client_Healthcare_56,F&B,Tier 1,AM-06,2024-01-01
+SMS-1057,Client_Healthcare_57,Retail,Tier 3,AM-04,2024-06-01
+SMS-1058,Client_Consumer Goods_58,Consumer Goods,Tier 2,AM-08,2024-04-01
+SMS-1059,Client_Healthcare_59,Retail,Tier 1,AM-08,2024-04-01
+SMS-1060,Client_Technology_60,F&B,Tier 3,AM-10,2024-03-01
+SMS-1061,Client_Consumer Goods_61,F&B,Tier 3,AM-06,2024-03-01
+SMS-1062,Client_Technology_62,Consumer Goods,Tier 2,AM-02,2024-04-01
+SMS-1063,Client_Retail_63,Consumer Goods,Tier 3,AM-08,2024-04-01
+SMS-1064,Client_F&B_64,Consumer Goods,Tier 2,AM-09,2024-04-01
+SMS-1065,Client_F&B_65,Technology,Tier 2,AM-07,2024-03-01
+SMS-1066,Client_Retail_66,Healthcare,Tier 2,AM-04,2024-06-01
+SMS-1067,Client_Consumer Goods_67,Consumer Goods,Tier 2,AM-02,2024-02-01
+SMS-1068,Client_Healthcare_68,F&B,Tier 3,AM-05,2024-06-01
+SMS-1069,Client_Healthcare_69,Retail,Tier 3,AM-02,2024-04-01
+SMS-1070,Client_Consumer Goods_70,Consumer Goods,Tier 2,AM-09,2024-03-01
+SMS-1071,Client_Consumer Goods_71,Consumer Goods,Tier 3,AM-02,2024-03-01
+SMS-1072,Client_Consumer Goods_72,F&B,Tier 3,AM-07,2024-02-01
+SMS-1073,Client_F&B_73,Consumer Goods,Tier 3,AM-01,2024-04-01
+SMS-1074,Client_Healthcare_74,Consumer Goods,Tier 2,AM-06,2024-06-01
+SMS-1075,Client_Healthcare_75,F&B,Tier 2,AM-04,2024-03-01
+SMS-1076,Client_F&B_76,Technology,Tier 3,AM-06,2024-02-01
+SMS-1077,Client_Healthcare_77,Retail,Tier 2,AM-04,2024-06-01
+SMS-1078,Client_F&B_78,Healthcare,Tier 2,AM-06,2024-03-01
+SMS-1079,Client_Retail_79,Technology,Tier 2,AM-02,2024-02-01
+SMS-1080,Client_Healthcare_80,F&B,Tier 2,AM-06,2024-04-01
+SMS-1081,Client_Technology_81,F&B,Tier 3,AM-05,2024-06-01
+SMS-1082,Client_Healthcare_82,Healthcare,Tier 2,AM-03,2024-06-01
+SMS-1083,Client_Retail_83,Healthcare,Tier 3,AM-06,2024-04-01
+SMS-1084,Client_Retail_84,Consumer Goods,Tier 3,AM-07,2024-05-01
+SMS-1085,Client_F&B_85,F&B,Tier 3,AM-07,2024-02-01
+SMS-1086,Client_Technology_86,Technology,Tier 3,AM-08,2024-04-01
+SMS-1087,Client_Retail_87,Consumer Goods,Tier 2,AM-02,2024-03-01
+SMS-1088,Client_Healthcare_88,Retail,Tier 2,AM-02,2024-06-01
+SMS-1089,Client_Technology_89,Healthcare,Tier 1,AM-10,2024-05-01
+SMS-1090,Client_Healthcare_90,F&B,Tier 1,AM-01,2024-01-01
+SMS-1091,Client_Consumer Goods_91,F&B,Tier 2,AM-05,2024-04-01
+SMS-1092,Client_F&B_92,F&B,Tier 2,AM-02,2024-02-01
+SMS-1093,Client_Retail_93,Technology,Tier 2,AM-02,2024-05-01
+SMS-1094,Client_Healthcare_94,Technology,Tier 3,AM-02,2024-03-01
+SMS-1095,Client_Retail_95,Consumer Goods,Tier 2,AM-02,2024-02-01
+SMS-1096,Client_Healthcare_96,Healthcare,Tier 3,AM-05,2024-03-01
+SMS-1097,Client_Healthcare_97,F&B,Tier 3,AM-10,2024-04-01
+SMS-1098,Client_Healthcare_98,Technology,Tier 3,AM-07,2024-04-01
+SMS-1099,Client_F&B_99,Consumer Goods,Tier 2,AM-06,2024-06-01
+SMS-1100,Client_Consumer Goods_100,Consumer Goods,Tier 2,AM-05,2024-01-01
+SMS-1101,Client_Technology_101,Healthcare,Tier 1,AM-05,2024-03-01
+SMS-1102,Client_Consumer Goods_102,Technology,Tier 3,AM-03,2024-02-01
+SMS-1103,Client_Retail_103,Healthcare,Tier 2,AM-06,2024-02-01
+SMS-1104,Client_Technology_104,Technology,Tier 2,AM-02,2024-06-01
+SMS-1105,Client_Technology_105,Healthcare,Tier 2,AM-05,2024-02-01
+SMS-1106,Client_Technology_106,Retail,Tier 1,AM-06,2024-04-01
+SMS-1107,Client_Technology_107,Healthcare,Tier 2,AM-09,2024-01-01
+SMS-1108,Client_Healthcare_108,Healthcare,Tier 2,AM-09,2024-03-01
+SMS-1109,Client_Healthcare_109,Retail,Tier 1,AM-03,2024-01-01
+SMS-1110,Client_Consumer Goods_110,Retail,Tier 3,AM-05,2024-02-01
+SMS-1111,Client_F&B_111,Retail,Tier 1,AM-07,2024-05-01
+SMS-1112,Client_Retail_112,Consumer Goods,Tier 2,AM-07,2024-03-01
+SMS-1113,Client_Healthcare_113,Healthcare,Tier 2,AM-08,2024-03-01
+SMS-1114,Client_Consumer Goods_114,Technology,Tier 2,AM-05,2024-05-01
+SMS-1115,Client_Consumer Goods_115,Retail,Tier 3,AM-05,2024-02-01
+SMS-1116,Client_Consumer Goods_116,Retail,Tier 2,AM-06,2024-05-01
+SMS-1117,Client_Healthcare_117,Retail,Tier 2,AM-04,2024-01-01
+SMS-1118,Client_Retail_118,Consumer Goods,Tier 2,AM-08,2024-06-01
+SMS-1119,Client_Retail_119,Technology,Tier 1,AM-06,2024-04-01
+SMS-1120,Client_F&B_120,Consumer Goods,Tier 3,AM-01,2024-06-01
+SMS-1121,Client_Healthcare_121,Consumer Goods,Tier 1,AM-10,2024-05-01
+SMS-1122,Client_Healthcare_122,Retail,Tier 3,AM-04,2024-02-01
+SMS-1123,Client_Healthcare_123,Retail,Tier 2,AM-10,2024-02-01
+SMS-1124,Client_Healthcare_124,Technology,Tier 1,AM-02,2024-05-01
+SMS-1125,Client_F&B_125,F&B,Tier 2,AM-08,2024-03-01
+SMS-1126,Client_Consumer Goods_126,Healthcare,Tier 1,AM-08,2024-02-01
+SMS-1127,Client_Retail_127,Healthcare,Tier 3,AM-06,2024-05-01
+SMS-1128,Client_Technology_128,Healthcare,Tier 2,AM-05,2024-06-01
+SMS-1129,Client_Technology_129,Healthcare,Tier 3,AM-05,2024-05-01
+SMS-1130,Client_Retail_130,Consumer Goods,Tier 2,AM-02,2024-05-01
+SMS-1131,Client_Consumer Goods_131,F&B,Tier 1,AM-05,2024-04-01
+SMS-1132,Client_Technology_132,Consumer Goods,Tier 3,AM-09,2024-02-01
+SMS-1133,Client_Healthcare_133,Consumer Goods,Tier 2,AM-09,2024-04-01
+SMS-1134,Client_Healthcare_134,Consumer Goods,Tier 3,AM-05,2024-03-01
+SMS-1135,Client_Consumer Goods_135,Retail,Tier 2,AM-05,2024-02-01
+SMS-1136,Client_F&B_136,Consumer Goods,Tier 2,AM-01,2024-03-01
+SMS-1137,Client_Retail_137,Retail,Tier 3,AM-05,2024-05-01
+SMS-1138,Client_Healthcare_138,Healthcare,Tier 3,AM-09,2024-05-01
+SMS-1139,Client_Healthcare_139,Consumer Goods,Tier 2,AM-01,2024-04-01
+SMS-1140,Client_Healthcare_140,Consumer Goods,Tier 1,AM-01,2024-02-01
+SMS-1141,Client_Technology_141,Retail,Tier 3,AM-05,2024-05-01
+SMS-1142,Client_Consumer Goods_142,Technology,Tier 3,AM-06,2024-02-01
+SMS-1143,Client_Technology_143,Consumer Goods,Tier 3,AM-10,2024-02-01
+SMS-1144,Client_Healthcare_144,F&B,Tier 1,AM-10,2024-03-01
+SMS-1145,Client_F&B_145,Consumer Goods,Tier 3,AM-07,2024-03-01
+SMS-1146,Client_Healthcare_146,F&B,Tier 2,AM-05,2024-04-01
+SMS-1147,Client_Retail_147,Technology,Tier 1,AM-03,2024-04-01
+SMS-1148,Client_F&B_148,Consumer Goods,Tier 2,AM-10,2024-04-01
+SMS-1149,Client_Consumer Goods_149,Retail,Tier 2,AM-02,2024-02-01
